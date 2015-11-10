@@ -1,0 +1,24 @@
+[
+  {
+    "featureName": "Input"
+  },
+  {
+    "featureName": "Bind",
+    "key_binds": [
+      "33;toggle;&fly toggle",
+      "34;toggle;&windowgui open",
+      "35;toggle;&fastplace toggle",
+      "37;toggle;&glide toggle",
+      "38;toggle;&fullbright toggle",
+      "45;toggle;&markers toggle",
+      "46;toggle;&console open",
+      "47;toggle;&playerinfo trace",
+      "48;toggle;&freecam toggle",
+      "49;toggle;&noclip toggle",
+      "21;toggle;&cutaway toggle",
+      "23;toggle;&autowalk toggle",
+      "24;toggle;&snap",
+      "25;toggle;&automine toggle"
+    ]
+  }
+]
